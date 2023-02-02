@@ -1,0 +1,272 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-4909920729420737/9665081928",
+      "main_ads_intertitial":"ca-app-pub-4909920729420737/6957888494",
+      "main_ads_natives":"ca-app-pub-4909920729420737/8797355835",
+      "backup_ads_natives":"null",
+      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_intertitial":"DefaultInterstitial",
+      "open_ads_admob":"ca-app-pub-4909920729420737/6362764186",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"1",
+      "interval_intertitial": 2,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"186057c05",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Gameplay Basics",
+      "image": "https://lh3.googleusercontent.com/pUqNeQK-bW-IjP0gilIt9jf0hK8a8zNAqK1VAVvCXtKjtxZ_9obuXImolpAxf6ke2wI=w2400"
+    },
+    {
+      "id": 2,
+      "name_category": "Walkthroughs",
+      "image": "https://lh6.googleusercontent.com/31-pMb540EbZw9BtYt4lfvHCDHVXljKeJiwfiYrzk60TdC2T9KrorT8DcIAejh2-cMs=w2400"
+    },
+    {
+      "id": 3,
+      "name_category": "Secrets",
+      "image": "https://lh5.googleusercontent.com/tcLvBh-gxV3HCVeyMi3r6BLAiTvNAcIKy259XmywMiig5ScxFpCpU5pzHAjrXx1OflY=w2400"
+    },
+    {
+      "id": 4,
+      "name_category": "Characters",
+      "image": "https://lh3.googleusercontent.com/w8SEogm8dZ4wJdnoj10O3gCIth0btinnXMboqY4ksBkucHoNSrGcjv7wt70IiWigHno=w2400"
+    },
+    {
+      "id": 5,
+      "name_category": "Maps or Levels",
+      "image": "https://lh3.googleusercontent.com/9_ynlmwk-f24y6H2jVNbiFrJ3ddBKMe0QSXmhLuceakYswZlXpZ8Gfk8tU8lwMSCNVQ=w2400"
+    },
+    {
+      "id": 6,
+      "name_category": "Crafting",
+      "image": "https://lh6.googleusercontent.com/rOceYbvn_K8iJuHa82x4tgGfwkXbYUdH08zs0DKP5ldLRwo6zQIVUFQ6i14he9inXGk=w2400"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Gameplay Basics",
+      "title": "Starting Tips",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2001321225477613076/BE7BB528FD8B690EA6AD89CB417271D3C1612F5B/",
+      "description": "Just some starting tips",
+      "link": "file:///android_asset/guide/guideG1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Gameplay Basics",
+      "title": "Definitely a Laundromat",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2057616220825385892/C149DD3199127CCE1ED2947DBF48461F8C935421/",
+      "description": "Generate passive revenue the legal way! Grow your business empire of Laundromat services and steer clear of pesky Legal entanglements or risking the ire of The Major.",
+      "link": "file:///android_asset/guide/guideG2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Gameplay Basics",
+      "title": "Definitely a Donut Shop",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2057616220831122557/657308CF79FBF1C0E42D507264CE766E60A887E6/",
+      "description": "Running a Donut shop isn't the Highway to the Profit zone that a Laundromat is, but it can still be net-profitable without resorting to selling illicit product...",
+      "link": "file:///android_asset/guide/guideG3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Gameplay Basics",
+      "title": "How to avoid the first raid from The Major",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1840304854778343621/21DA5DEA19A0DB82393119C0A2E07805FACF683B/",
+      "description": "Here is the way to avoid the first raid from The Major !",
+      "link": "file:///android_asset/guide/guideG4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Gameplay Basics",
+      "title": "starting tips 2",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1036240/ss_78b2b2bc35f2ab433a6be9027a810db4ef94e65d.1920x1080.jpg",
+      "description": "this is how you save and earn much more",
+      "link": "file:///android_asset/guide/guideG5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Gameplay Basics",
+      "title": "How to defeat The Major attack at the start of the game",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2002447125399541501/B7228F374AA93D5A2CA9802B8DA567A329AC7F3C/",
+      "description": "how to defeat the first attack at the start of the game from The Major",
+      "link": "file:///android_asset/guide/guideG6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Gameplay Basics",
+      "title": "What happens if you have negative amount of money?",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2002447125399363000/1196F6D2765182927053A696A79BDECCEA2FF4ED/",
+      "description": "Lets find out",
+      "link": "file:///android_asset/guide/guideG7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Gameplay Basics",
+      "title": "Return to your shop without a minimap",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2047483121657428304/F2370357B329B2DECCC8585A93371B83975AC55C/",
+      "description": "How to find your store again without a (hopefully) yet to be added minimap.",
+      "link": "file:///android_asset/guide/guideG8.html"
+    },
+    {
+      "id": 9,
+      "name_category": "Walkthroughs",
+      "title": "Definitely a Laundromat",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2057616220825385892/C149DD3199127CCE1ED2947DBF48461F8C935421/",
+      "description": "Generate passive revenue the legal way! Grow your business empire of Laundromat services and steer clear of pesky Legal entanglements or risking the ire of The Major.",
+      "link": "file:///android_asset/guide/guideG2.html"
+    },
+    {
+      "id": 10,
+      "name_category": "Walkthroughs",
+      "title": "Definitely a Donut Shop",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2057616220831122557/657308CF79FBF1C0E42D507264CE766E60A887E6/",
+      "description": "Running a Donut shop isn't the Highway to the Profit zone that a Laundromat is, but it can still be net-profitable without resorting to selling illicit product...",
+      "link": "file:///android_asset/guide/guideG3.html"
+    },
+    {
+      "id": 11,
+      "name_category": "Walkthroughs",
+      "title": "How to avoid the first raid from The Major",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1840304854778343621/21DA5DEA19A0DB82393119C0A2E07805FACF683B/",
+      "description": "Here is the way to avoid the first raid from The Major !",
+      "link": "file:///android_asset/guide/guideG4.html"
+    },
+    {
+      "id": 12,
+      "name_category": "Walkthroughs",
+      "title": "How to defeat The Major attack at the start of the game",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2002447125399541501/B7228F374AA93D5A2CA9802B8DA567A329AC7F3C/",
+      "description": "how to defeat the first attack at the start of the game from The Major",
+      "link": "file:///android_asset/guide/guideG6.html"
+    },
+    {
+      "id": 13,
+      "name_category": "Walkthroughs",
+      "title": "What happens if you have negative amount of money?",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2002447125399363000/1196F6D2765182927053A696A79BDECCEA2FF4ED/",
+      "description": "Lets find out",
+      "link": "file:///android_asset/guide/guideG7.html"
+    },
+    {
+      "id": 14,
+      "name_category": "Walkthroughs",
+      "title": "Return to your shop without a minimap",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2047483121657428304/F2370357B329B2DECCC8585A93371B83975AC55C/",
+      "description": "How to find your store again without a (hopefully) yet to be added minimap.",
+      "link": "file:///android_asset/guide/guideG8.html"
+    },
+    {
+      "id": 15,
+      "name_category": "Secrets",
+      "title": "How to avoid the first raid from The Major",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1840304854778343621/21DA5DEA19A0DB82393119C0A2E07805FACF683B/",
+      "description": "Here is the way to avoid the first raid from The Major !",
+      "link": "file:///android_asset/guide/guideG4.html"
+    },
+    {
+      "id": 16,
+      "name_category": "Secrets",
+      "title": "[CHEAT] How to add money easily",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/1840304854778946966/B7775811E98D20923E89B4268B8968E922EC07DE/",
+      "description": "Okey, we all know that the game needs some rebalancing with the economy. In any case, you might need some $Extra Cash$ , this guide is The Solution",
+      "link": "file:///android_asset/guide/guideS1.html"
+    },
+    {
+      "id": 17,
+      "name_category": "Characters",
+      "title": "Layout for Employee rooms",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2051986721313618224/449CF66D9ED98C7983AC42A020785D0CAD2BE514/",
+      "description": "A guide for using little land to fullfil all your employees needs",
+      "link": "file:///android_asset/guide/guideCh1.html"
+    },
+    {
+      "id": 18,
+      "name_category": "Characters",
+      "title": "How to defeat The Major attack at the start of the game",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2002447125399541501/B7228F374AA93D5A2CA9802B8DA567A329AC7F3C/",
+      "description": "how to defeat the first attack at the start of the game from The Major",
+      "link": "file:///android_asset/guide/guideG6.html"
+    },
+    {
+      "id": 19,
+      "name_category": "Maps or Levels",
+      "title": "How to defeat The Major attack at the start of the game",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2002447125399541501/B7228F374AA93D5A2CA9802B8DA567A329AC7F3C/",
+      "description": "how to defeat the first attack at the start of the game from The Major",
+      "link": "file:///android_asset/guide/guideG6.html"
+    },
+    {
+      "id": 20,
+      "name_category": "Crafting",
+      "title": "Definitely a Donut Shop",
+      "image": "https://steamuserimages-a.akamaihd.net/ugc/2057616220831122557/657308CF79FBF1C0E42D507264CE766E60A887E6/",
+      "description": "Running a Donut shop isn't the Highway to the Profit zone that a Laundromat is, but it can still be net-profitable without resorting to selling illicit product...",
+      "link": "file:///android_asset/guide/guideG3.html"
+    }
+  ]
+}
